@@ -1,2 +1,2 @@
 # COMP9021
-Foundation of programming
+Principle of programming
